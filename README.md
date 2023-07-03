@@ -1,2 +1,2 @@
-# react_pizza
+# testing_repository
 #some changes here
